@@ -1,33 +1,37 @@
-<h1>Hi, I'm Waseem Raja 👋</h1>
+<h1 align="center">Hi, I'm Waseem Raja! 👋</h1>
 
-<h2>About Me</h2>
-<p>I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.</p>
+## About Me
 
-<h2>🛠 Skills</h2>
-<ul>
-  <li><strong>Languages:</strong> JavaScript, HTML, CSS</li>
-  <li><strong>Frameworks:</strong> React, Tailwind</li>
-  <li><strong>Tools:</strong> GitHub, VS Code</li>
-</ul>
+I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.
 
-<h2>🚀 Projects</h2>
-<ul>
-  <li><a href="https://github.com/Waseemraja23/weather-group-project">Weather App</a> - A web app that provides weather updates using React and Tailwind CSS.</li>
-  <li><a href="https://github.com/Waseemraja23/project-2">Project 2</a> - Brief description of the project.</li>
-</ul>
+## 🛠 Skills
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Waseemraja23&show_icons=true&theme=radical" alt="Waseem's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemraja23&layout=compact&theme=radical" alt="Top Languages">
-</p>
+- **Languages**: 
+  - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  - HTML ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+  - CSS ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+  
+- **Frameworks**: 
+  - React ![React](https://img.shields.io/badge/-React-blue?logo=react)
+  - Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?logo=tailwind-css&logoColor=white)
+  
+- **Tools**: 
+  - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+  - VS Code ![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet?logo=visual-studio-code&logoColor=white)
 
-<h2>📫 How to reach me</h2>
-<ul>
-  <li>Email: <a href="mailto:waseemraja28201@gmail.com">waseemraja28201@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/waseem-raja-877b89235/">Waseem Raja</a></li>
-  <li>Resume: <a href="https://drive.google.com/file/d/1NYQPfAAewb6A5zzVtpGQUJUwOKBS9LN7/view?usp=drive_link">Waseem Raja</a></li>
-</ul>
+## 🚀 Projects
 
-<!-- Footer Image -->
-<img src="https://example.com/footer.png" alt="Footer Image">
+- [Weather App](https://github.com/Waseemraja23/weather-group-project) - A web app that provides weather updates using React and Tailwind CSS.
+- [Project 2](https://github.com/Waseemraja23/project-2) - Brief description of the project.
+
+## 📊 GitHub Stats
+
+![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waseemraja23&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemraja23&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- Email: [waseemraja28201@gmail.com](mailto:waseemraja28201@gmail.com)
+- LinkedIn: [Waseem Raja](https://www.linkedin.com/in/waseem-raja-877b89235/)
+- Resume: [Waseem Raja](https://drive.google.com/file/d/1NYQPfAAewb6A5zzVtpGQUJUwOKBS9LN7/view?usp=drive_link)
