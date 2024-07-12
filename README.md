@@ -1,6 +1,3 @@
-<!-- Header Image -->
-<img src="https://example.com/header.png" alt="Header Image">
-
 <h1>Hi, I'm Waseem Raja 👋</h1>
 
 <h2>About Me</h2>
