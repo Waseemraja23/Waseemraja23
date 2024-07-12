@@ -1,46 +1,32 @@
-# waseemraja
-# Hi there, I'm Ajay Bedwall! 👋
+![Header Image](https://example.com/header.png)
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybedwall&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybedwall" /> </p>
+# Hi, I'm Waseem Raja 👋
 
 ## About Me
 
-- 🌱 I’m currently learning **JavaScript, React.js, Tailwind CSS, and Bootstrap**.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/ajaybedwall)
-- 📫 How to reach me **ajay.bedwall@example.com**
+I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.
 
-## Skills
+## 🛠 Skills
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: React, Node.js, Express
+- **Tools**: Git, GitHub, VS Code, Docker
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React.js, Tailwind CSS, Bootstrap
-- **Tools**: Git, GitHub, VSCode, Firebase
+## 🚀 Projects
+- [Weather App](https://github.com/Waseemraja23/weather-group-project) - A web app that provides weather updates using React and Tailwind CSS.
+- [Project 2](https://github.com/Waseemraja23/project-2) - Brief description of the project.
 
-## Projects
+## 📊 GitHub Stats
 
-### Weather App
-A weather app built using React.js and Tailwind CSS.
-- GitHub: [Weather App Repository](https://github.com/ajaybedwall/weather-group-project)
-- Features: Real-time weather data, Google authentication, responsive design.
+![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waseemraja23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemraja23&layout=compact&theme=radical)
 
-### [Your Other Project]
-A brief description of what this project is about.
-- GitHub: [Link to Repository](#)
-- Features: [List some key features]
+## 📫 How to reach me
+- Email: [waseemraja@example.com](mailto:waseemraja@example.com)
+- LinkedIn: [Waseem Raja](https://linkedin.com/in/Waseemraja23)
+- Twitter: [@WaseemRaja](https://twitter.com/WaseemRaja23)
 
-## Connect with Me
+## 🌟 Extras
+- **Blog**: [My Blog](https://yourblog.com)
+- **Certifications**: [My Certifications](https://certifications.com)
 
-- [LinkedIn](https://www.linkedin.com/in/ajaybedwall/)
-- [Twitter](https://twitter.com/ajaybedwall)
-- [Personal Website](https://www.ajaybedwall.com)
-
-## Stats
-
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaybedwall&show_icons=true&theme=radical)
-
-## Contributions
-
-![Ajay's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ajaybedwall&theme=radical)
-
-<!-- Add any other badges or stats you find interesting -->
-
+![Footer Image](https://example.com/footer.png)
