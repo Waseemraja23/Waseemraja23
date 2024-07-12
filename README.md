@@ -4,27 +4,14 @@
 
 <h1 align="center">Hi, I'm Waseem Raja! 👋</h1>
 
-<h3 align="center">Passionate Developer | Exploring New Technologies</h3>
+## About Me
 
-<img align="right" alt="gif" width="400px" src="https://example.com/gif.gif">
+I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Waseemraja23&label=Profile%20views&color=0e75b6&style=flat" alt="Waseemraja23" />
-</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Waseemraja23" alt="Waseemraja23" /></a>
-</p>
+- 🔭 I’m currently working on **Crypto dashboard App using React**
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **Weather App using React**
-
-- 🌱 I’m currently learning **Firebase Authentication**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👯 I’m looking to collaborate on **Frontend Development Projects**
 
@@ -44,6 +31,9 @@
   <a href="https://twitter.com/WaseemRaja23" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="WaseemRaja23" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/your_instagram_username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Waseem Raja" height="30" width="40" />
+  </a>
   <a href="https://github.com/Waseemraja23" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Waseemraja23" height="30" width="40" />
   </a>
@@ -51,6 +41,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -59,9 +55,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
