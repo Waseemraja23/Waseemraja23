@@ -1,5 +1,3 @@
-![Header Image](https://example.com/header.png)
-
 # Hi, I'm Waseem Raja 👋
 
 ## About Me
@@ -7,9 +5,9 @@
 I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.
 
 ## 🛠 Skills
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: React, Node.js, Express
-- **Tools**: Git, GitHub, VS Code, Docker
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Tailwind
+- **Tools**: Git, GitHub, VS Code
 
 ## 🚀 Projects
 - [Weather App](https://github.com/Waseemraja23/weather-group-project) - A web app that provides weather updates using React and Tailwind CSS.
