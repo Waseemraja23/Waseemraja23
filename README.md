@@ -7,17 +7,17 @@ I'm a passionate developer focused on building innovative web applications. I lo
 ## 🛠 Skills
 
 - **Languages**: 
-  - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-  - HTML ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
-  - CSS ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  - ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
   
 - **Frameworks**: 
-  - React ![React](https://img.shields.io/badge/-React-blue?logo=react)
-  - Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?logo=tailwind-css&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-blue?logo=react)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?logo=tailwind-css&logoColor=white)
   
 - **Tools**: 
-  - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
-  - VS Code ![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet?logo=visual-studio-code&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/-VS_Code-blueviolet?logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Projects
 
