@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://example.com/header.png" alt="Header Image">
-</p>
-
 <h1 align="center">Hi, I'm Waseem Raja! 👋</h1>
 
 ## About Me
@@ -28,10 +24,8 @@ I'm a passionate developer focused on building innovative web applications. I lo
   <a href="https://linkedin.com/in/waseem-raja-877b89235" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waseem Raja" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/WaseemRaja23" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="WaseemRaja23" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your_instagram_username" target="blank">
+  
+  <a href="https://instagram.com/your_instagram_waseemraja_0515" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Waseem Raja" height="30" width="40" />
   </a>
   <a href="https://github.com/Waseemraja23" target="blank">
