@@ -1,7 +1,7 @@
 # Hi, I'm Waseem Raja 👋
 
-## About Me
 
+## About Me
 I'm a passionate developer focused on building innovative web applications. I love exploring new technologies and continuously improving my skill set.
 
 ## 🛠 Skills
